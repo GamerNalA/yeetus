@@ -476,7 +476,7 @@ local function SAOKCV_fake_script()
 	ShowFrame:Play()
 	ShowFrame.Completed:Wait()
 	
-	TypeWrite(InformationBox, "All functions were loaded successfully.\n\nEnjoy Yeetus!")
+	TypeWrite(InformationBox, "All functions were loaded successfully.\n\nEnjoy Yeetus the Fetus!")
 	
 	wait(3)
 	
